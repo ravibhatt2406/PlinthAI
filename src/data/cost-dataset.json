@@ -1,0 +1,98 @@
+{
+  "cement": {
+    "name": "OPC Cement",
+    "unit": "bag (50kg)",
+    "rate_inr": 420,
+    "source": "CPWD Delhi Schedule of Rates (DSR) 2025-2026, Section 3.1"
+  },
+  "steel": {
+    "name": "TMT Steel Reinforcement (Fe 500D)",
+    "unit": "kg",
+    "rate_inr": 68,
+    "source": "CPWD Delhi Schedule of Rates (DSR) 2025-2026, Section 3.8"
+  },
+  "bricks": {
+    "name": "Class 7.5 Red Clay Bricks",
+    "unit": "1000 bricks",
+    "rate_inr": 7500,
+    "source": "CPWD Delhi Schedule of Rates (DSR) 2025-2026, Section 6.2"
+  },
+  "sand": {
+    "name": "River Sand / Fine Aggregate",
+    "unit": "cft",
+    "rate_inr": 55,
+    "source": "State PWD Material Index Rates 2025"
+  },
+  "aggregate": {
+    "name": "Coarse Aggregate (20mm)",
+    "unit": "cft",
+    "rate_inr": 60,
+    "source": "State PWD Material Index Rates 2025"
+  },
+  "flooring_vitrified": {
+    "name": "Vitrified Glazed Floor Tiles (600x600)",
+    "unit": "sq.ft.",
+    "rate_inr": 80,
+    "source": "CPWD DSR 2025-2026, Section 11.37.1"
+  },
+  "flooring_ceramic": {
+    "name": "Ceramic Glazed Floor Tiles (300x300)",
+    "unit": "sq.ft.",
+    "rate_inr": 45,
+    "source": "CPWD DSR 2025-2026, Section 11.37.5 (Budget Choice)"
+  },
+  "paint_premium": {
+    "name": "Premium Acrylic Emulsion Paint",
+    "unit": "sq.ft.",
+    "rate_inr": 28,
+    "source": "CPWD DSR 2025-2026, Section 13.41"
+  },
+  "paint_standard": {
+    "name": "Standard Synthetic Distemper Paint",
+    "unit": "sq.ft.",
+    "rate_inr": 14,
+    "source": "CPWD DSR 2025-2026, Section 13.39 (Budget Choice)"
+  },
+  "doors": {
+    "name": "Teak Wood Flush Door with Frame",
+    "unit": "unit",
+    "rate_inr": 8500,
+    "source": "CPWD DSR 2025-2026, Section 9.20"
+  },
+  "windows_upvc": {
+    "name": "UPVC Sliding Window Frame & Glass",
+    "unit": "sq.ft.",
+    "rate_inr": 380,
+    "source": "CPWD DSR 2025-2026, Section 25.10"
+  },
+  "electrical_point": {
+    "name": "Electrical wiring & Modular Switches",
+    "unit": "sq.ft. built area",
+    "rate_inr": 140,
+    "source": "CPWD DSR 2025-2026, Section 31"
+  },
+  "plumbing_toilet": {
+    "name": "Sanitaryware, pipes & CP fittings",
+    "unit": "bathroom",
+    "rate_inr": 45000,
+    "source": "State PWD Sanitary Schedule of Rates 2025"
+  },
+  "labor_mason": {
+    "name": "Skilled Mason (Rajmistri)",
+    "unit": "man-day",
+    "rate_inr": 850,
+    "source": "Ministry of Labour Minimum Wages Notification 2025 (Area A)"
+  },
+  "labor_helper": {
+    "name": "Unskilled Labor (Beldar)",
+    "unit": "man-day",
+    "rate_inr": 550,
+    "source": "Ministry of Labour Minimum Wages Notification 2025 (Area A)"
+  },
+  "labor_carpenter": {
+    "name": "Skilled Carpenter (Barhai)",
+    "unit": "man-day",
+    "rate_inr": 900,
+    "source": "Ministry of Labour Minimum Wages Notification 2025 (Area A)"
+  }
+}
